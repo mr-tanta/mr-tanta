@@ -36,6 +36,8 @@ With **over a decade of experience** in ethical hacking, software development, L
 ### Frameworks & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
@@ -43,6 +45,14 @@ With **over a decade of experience** in ethical hacking, software development, L
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Security & Monitoring
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -72,11 +82,13 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 <div align="center">
   
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-tanta&show_icons=true&theme=tokyonight&count_private=true)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-tanta&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=contribs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tanta&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tanta&layout=compact&theme=tokyonight&langs_count=8)
 
 </div>
+
+**Note**: GitHub stats show 20 total stars across all repositories: Intercom Next.js Guide (6), NDPR Toolkit (4), Securing Production Servers (4), PortKill (3), Clean Sweep Pro (1), Homebrew PortKill (1), Profile README (1)
 
 ## GitHub Streak
 
@@ -112,10 +124,11 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 ## Current Focus
 
-- Building **cloud-native applications** with modern architectures
+- Building **cloud-native applications** with Next.js and NestJS architectures
 - Developing **AI-powered DevOps tools** for infrastructure automation
-- Contributing to **open source security projects**
-- Creating **educational content** about cloud security and system administration
+- Integrating **machine learning models** with cloud infrastructure optimization
+- Contributing to **open source security projects** and NDPR compliance tools
+- Creating **educational content** about modern web development, cloud security, and system administration
 
 ## Let's Connect
 
