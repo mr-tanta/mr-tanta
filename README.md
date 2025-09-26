@@ -51,16 +51,21 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 ## Featured Projects
 
-### System & DevOps Tools
-- **[PortKill](https://github.com/mr-tanta/portkill)** - Advanced port management and network analysis tool with performance benchmarking
-- **[AWS Cost Sentinel](https://github.com/mr-tanta/aws-cost-sentinel)** - Open-source cloud cost optimization platform for AWS environments
-- **[Clean Sweep Pro](https://github.com/mr-tanta/clean-sweep-pro)** - Professional macOS storage optimizer with intelligent cleanup
+### Development Guides & Integrations
+- **[Intercom Next.js 14 Guide](https://github.com/mr-tanta/intercom-next-js-14-guide)** (6 stars) - Next.js 14 Intercom Integration: comprehensive guide and example codebase
+- **[NDPR Toolkit](https://github.com/mr-tanta/ndpr-toolkit)** (4 stars) - Open-source toolkit for Nigerian developers to implement NDPR and DPA compliant features
 
-### Package Management
-- **[Homebrew PortKill](https://github.com/mr-tanta/homebrew-portkill)** - Homebrew tap for easy PortKill installation
-
-### Security & Privacy
+### Security & System Administration
+- **[Securing Production Servers](https://github.com/mr-tanta/securing-production-servers-with-best-practices)** (4 stars) - Comprehensive Linux hardening guide with critical security aspects
+- **[PortKill](https://github.com/mr-tanta/portkill)** (3 stars) - Advanced port management and network analysis tool with performance benchmarking
 - **[Password Manager](https://github.com/mr-tanta/password-manager)** - Secure password management solution
+
+### Cloud & DevOps Tools
+- **[AWS Cost Sentinel](https://github.com/mr-tanta/aws-cost-sentinel)** - Open-source cloud cost optimization platform for AWS environments
+- **[Clean Sweep Pro](https://github.com/mr-tanta/clean-sweep-pro)** (1 star) - Professional macOS storage optimizer with intelligent cleanup
+
+### Package Management & Automation
+- **[Homebrew PortKill](https://github.com/mr-tanta/homebrew-portkill)** (1 star) - Homebrew tap for easy PortKill installation
 - **[Personal Assistant](https://github.com/mr-tanta/personal-assistant)** - AI-powered personal productivity assistant
 
 ## GitHub Stats
