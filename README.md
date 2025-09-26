@@ -1,4 +1,4 @@
-# Hi there, I'm Abraham Tanta 👋
+# Hi there, I'm Abraham Tanta
 
 <div align="center">
   
@@ -6,18 +6,18 @@
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-With **over a decade of experience** in ethical hacking, software development, Linux and network administration, I'm a passionate technologist who builds solutions that matter. Currently working at [@Perkflow](https://github.com/Perkflow) and based in Lagos, Nigeria 🇳🇬.
+With **over a decade of experience** in ethical hacking, software development, Linux and network administration, I'm a passionate technologist who builds solutions that matter. Currently working at [@Perkflow](https://github.com/Perkflow) and based in Lagos, Nigeria.
 
-- 🔭 I'm currently working on **cloud cost optimization** and **system utilities**
-- 🌱 I'm exploring **AI/ML integration** with cloud infrastructure
-- 👯 I'm looking to collaborate on **open source projects** and **DevOps tools**
-- 💬 Ask me about **AWS**, **system administration**, **security**, and **automation**
-- 📫 How to reach me: **sir.tanta@gmail.com**
-- ⚡ Fun fact: I've been securing systems longer than some frameworks have existed!
+- I'm currently working on **cloud cost optimization** and **system utilities**
+- I'm exploring **AI/ML integration** with cloud infrastructure
+- I'm looking to collaborate on **open source projects** and **DevOps tools**
+- Ask me about **AWS**, **system administration**, **security**, and **automation**
+- How to reach me: **sir.tanta@gmail.com**
+- Fun fact: I've been securing systems longer than some frameworks have existed!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -49,21 +49,21 @@ With **over a decade of experience** in ethical hacking, software development, L
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🔧 System & DevOps Tools
+### System & DevOps Tools
 - **[PortKill](https://github.com/mr-tanta/portkill)** - Advanced port management and network analysis tool with performance benchmarking
 - **[AWS Cost Sentinel](https://github.com/mr-tanta/aws-cost-sentinel)** - Open-source cloud cost optimization platform for AWS environments
 - **[Clean Sweep Pro](https://github.com/mr-tanta/clean-sweep-pro)** - Professional macOS storage optimizer with intelligent cleanup
 
-### 🍺 Package Management
+### Package Management
 - **[Homebrew PortKill](https://github.com/mr-tanta/homebrew-portkill)** - Homebrew tap for easy PortKill installation
 
-### 🔐 Security & Privacy
+### Security & Privacy
 - **[Password Manager](https://github.com/mr-tanta/password-manager)** - Secure password management solution
 - **[Personal Assistant](https://github.com/mr-tanta/personal-assistant)** - AI-powered personal productivity assistant
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -73,7 +73,7 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 </div>
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
 
@@ -81,7 +81,7 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 </div>
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -89,7 +89,7 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 </div>
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -97,47 +97,47 @@ With **over a decade of experience** in ethical hacking, software development, L
 
 </div>
 
-## 💼 Professional Experience
+## Professional Experience
 
-- **🚀 Senior Software Engineer** at Perkflow - Building scalable solutions
-- **☁️ Cloud & DevOps Specialist** - AWS infrastructure optimization
-- **🔒 Ethical Hacker** - 10+ years in cybersecurity
-- **🐧 Linux System Administrator** - Enterprise-level system management
-- **📡 Network Administrator** - Network security and optimization
+- **Senior Software Engineer** at Perkflow - Building scalable solutions
+- **Cloud & DevOps Specialist** - AWS infrastructure optimization
+- **Ethical Hacker** - 10+ years in cybersecurity
+- **Linux System Administrator** - Enterprise-level system management
+- **Network Administrator** - Network security and optimization
 
-## 🎯 Current Focus
+## Current Focus
 
 - Building **cloud-native applications** with modern architectures
 - Developing **AI-powered DevOps tools** for infrastructure automation
 - Contributing to **open source security projects**
 - Creating **educational content** about cloud security and system administration
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-tanta)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mr_tanta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sir.tanta@gmail.com)
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 Coming soon! I'm preparing to share insights on cloud security, DevOps best practices, and system administration.
 <!-- BLOG-POST-LIST:END -->
 
-## 🎵 Fun Facts
+## Fun Facts
 
-- 🎶 I debug better with lo-fi music
-- 🌙 I'm a night owl - best code happens after midnight
-- ☕ Coffee is my debugging rubber duck
-- 🎮 I automate everything, even my coffee machine (working on it!)
-- 🚗 I drive a car but dream in infrastructure as code
+- I debug better with lo-fi music
+- I'm a night owl - best code happens after midnight
+- Coffee is my debugging rubber duck
+- I automate everything, even my coffee machine (working on it!)
+- I drive a car but dream in infrastructure as code
 
 ---
 
 <div align="center">
 
-### 💡 "Security is not a product, but a process" - Bruce Schneier
+### "Security is not a product, but a process" - Bruce Schneier
 
-*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.* ⭐
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mr-tanta&color=brightgreen&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/mr-tanta?style=social)
