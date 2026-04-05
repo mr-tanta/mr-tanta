@@ -67,7 +67,14 @@ With **over a decade of experience** in ethical hacking, software development, L
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ## Featured Projects
+### Security & Civic Tech
 
+- **[Chipon Alert](link)** — AI-powered safety intelligence platform for Nigeria.
+  Real-time incident reporting, community verification, safety-scored routes,
+  and neighborhood intelligence. Built with Hono + Bun, PostGIS, Expo 55,
+  Next.js 16, AWS Bedrock, and XLM-RoBERTa. Accepted into NVIDIA Inception.
+  4-app monorepo with 50+ API endpoints.
+  
 ### Security & System Tools
 
 - **[PortKill](https://github.com/mr-tanta/portkill)** — Zero-dependency (~72KB) port management and network analysis tool for macOS/Linux. Kill processes, manage Docker containers, benchmark connections, and run remote ops via SSH — all in pure Bash. Install: `brew install mr-tanta/portkill/portkill`
