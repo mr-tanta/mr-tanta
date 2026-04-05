@@ -69,7 +69,7 @@ With **over a decade of experience** in ethical hacking, software development, L
 ## Featured Projects
 ### Security & Civic Tech
 
-- **[Chipon Alert](link)** — AI-powered safety intelligence platform for Nigeria.
+- **[Chipon Alert](https://chipon.io)** — AI-powered safety intelligence platform for Nigeria.
   Real-time incident reporting, community verification, safety-scored routes,
   and neighborhood intelligence. Built with Hono + Bun, PostGIS, Expo 55,
   Next.js 16, AWS Bedrock, and XLM-RoBERTa. Accepted into NVIDIA Inception.
